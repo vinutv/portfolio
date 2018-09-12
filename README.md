@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gatsby Starter Portfolio
 > by Vinu
 
@@ -14,3 +15,6 @@ I hope you like my starters and create something awesome! To see some of my work
 - Emotion
 - TailwindCSS
 - React ID Swiper
+=======
+# portfolio
+>>>>>>> c41342cebcc84e32f879566934b26f2f069becfc
