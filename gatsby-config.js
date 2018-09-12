@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: 'Gatsby Portfolio',
+    siteTitle: 'Portfolio',
     siteUrl: 'https://vinutv.com',
   },
   plugins: [

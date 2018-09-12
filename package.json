@@ -9,7 +9,8 @@
     "predev": "postcss tailwind.css -o tailwind.custom.css",
     "prebuild": "postcss tailwind.css -o tailwind.custom.css",
     "lint": "eslint . --ext .js,.jsx --ignore-path .gitignore",
-    "lint:fix": "eslint . --ext .js,.jsx --fix --ignore-path .gitignore"
+    "lint:fix": "eslint . --ext .js,.jsx --fix --ignore-path .gitignore",
+    "deploy": "gatsby build && gh-pages -b master -d public"
   },
   "dependencies": {
     "babel-plugin-tailwind": "^0.1.10",
@@ -49,6 +50,7 @@
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-prettier": "^2.6.0",
     "eslint-plugin-react": "^7.8.2",
+    "gh-pages": "^1.2.0",
     "prettier": "^1.13.3"
   }
 }
