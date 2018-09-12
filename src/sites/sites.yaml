@@ -1,0 +1,47 @@
+- title: 'Lava'
+  url: '#'
+  name: 'portfolio-emma'
+  preview: '#'
+  description: 'Full-width grid with large images and a light theme'
+  cover: './1.jpg'
+  features:
+    - CSS Grid
+    - Emotion
+- title: 'Chocar'
+  url: '#'
+  name: 'portfolio-emilia'
+  preview: '#'
+  description: 'A dark themed One-Page layout with an image grid'
+  cover: './8.jpg'
+  features:
+    - React Overdrive
+    - CSS Grid
+    - Emotion
+- title: 'Yellow'
+  url: '#'
+  name: 'portfolio-bella'
+  preview: '#'
+  description: 'A bright single-page portfolio powered by Prismic.io'
+  cover: './3.jpg'
+  features:
+    - Prismic.io
+    - Emotion
+- title: 'Chair'
+  url: '#'
+  name: 'portfolio-cara'
+  preview: '#'
+  description: 'Playful & Colorful One-Page website with Parallax effect'
+  cover: './4.jpg'
+  features:
+    - TailwindCSS
+    - React Spring
+    - Emotion
+- title: 'Zipstick'
+  url: '#'
+  name: 'minimal-blog'
+  preview: '#'
+  description: 'Minimal blog focused on the content'
+  cover: './5.jpg'
+  features:
+    - Styled Components
+    - Markdown
