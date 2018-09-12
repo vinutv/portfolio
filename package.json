@@ -10,7 +10,7 @@
     "prebuild": "postcss tailwind.css -o tailwind.custom.css",
     "lint": "eslint . --ext .js,.jsx --ignore-path .gitignore",
     "lint:fix": "eslint . --ext .js,.jsx --fix --ignore-path .gitignore",
-    "deploy": "gatsby build && gh-pages -b gh-pages -d public"
+    "deploy": "gatsby build && gh-pages -b master -d public"
   },
   "dependencies": {
     "babel-plugin-tailwind": "^0.1.10",
