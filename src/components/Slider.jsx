@@ -4,11 +4,12 @@
 /* eslint no-return-assign: 0 */
 import React from 'react';
 import PropTypes from 'prop-types';
-import Swiper from 'react-id-swiper';
+import Swiper from 'react-swiper-id';
 import styled from 'react-emotion';
 import Img from 'gatsby-image';
 import rightArrow from '../right-arrow.svg';
-// import '../swiper.css';
+import '../layout.css';
+import '../swiper.css';
 
 const Heading = styled.h2`
   ${tw('text-2xl md:text-4xl font-normal')};
